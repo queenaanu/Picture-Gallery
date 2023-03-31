@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  #topic{
+  font-size: larger;
+  font-weight: bolder;
+  color: yellow;
+  text-align: center;
+  margin-top: 10px;
+  }
+
+  .nature{
+    font-size: medium;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+    }
+    
